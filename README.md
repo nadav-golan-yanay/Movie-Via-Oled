@@ -16,3 +16,12 @@ DS   | GPIO 17
 BLK  | NONE
 
 The code uses 120X120 pixels because of program storage space error
+
+
+![a014b023-fd83-4ce7-bfb9-290405aad3fb](https://github.com/nadav-golan-yanay/Movie-Via-Oled/assets/78790309/9460cba0-03f8-4692-86f4-8a7178d7ea29)
+
+
+
+
+https://github.com/nadav-golan-yanay/Movie-Via-Oled/assets/78790309/110bf543-c7d4-41be-9da6-7c840330a476
+
