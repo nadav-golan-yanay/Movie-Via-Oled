@@ -2,7 +2,7 @@
 A shrot GIF displays on OLED ST7789.
 
 ESP32-WROOM-DA Module
-Oled is _ _ _ SR7789
+Oled is ZJY-lPSI-V2.0, 240x240, SR7789
 
 Conections:
 OLED | ESP32
